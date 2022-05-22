@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alternatives on Apps Garden</title>
-    <link>http://appsgarden.github.io/free/</link>
+    <link>https://appsgarden.github.io/free/</link>
     <description>Recent content in Alternatives on Apps Garden</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://appsgarden.github.io/free/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://appsgarden.github.io/free/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

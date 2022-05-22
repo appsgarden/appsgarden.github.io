@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://appsgarden.github.io/free/</loc>
+    <loc>https://appsgarden.github.io/free/</loc>
   </url><url>
-    <loc>http://appsgarden.github.io/categories/</loc>
+    <loc>https://appsgarden.github.io/categories/</loc>
   </url><url>
-    <loc>http://appsgarden.github.io/</loc>
+    <loc>https://appsgarden.github.io/</loc>
   </url><url>
-    <loc>http://appsgarden.github.io/ios/</loc>
+    <loc>https://appsgarden.github.io/ios/</loc>
   </url><url>
-    <loc>http://appsgarden.github.io/macos/</loc>
+    <loc>https://appsgarden.github.io/macos/</loc>
   </url><url>
-    <loc>http://appsgarden.github.io/tags/</loc>
+    <loc>https://appsgarden.github.io/tags/</loc>
   </url>
 </urlset>
